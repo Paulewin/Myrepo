@@ -1,5 +1,6 @@
 # Myrepo
 tester ma configuration
 
-'r3262458@application-15036437-deployment-27343435-rn5dg.(none)'
+git config --global user.email "paulewin1@gmail.com"
+  git config --global user.name "Paule"
 
